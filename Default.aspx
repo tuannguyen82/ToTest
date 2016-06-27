@@ -28,7 +28,7 @@
                     </tr>
                     <tr>
                         <td>
-                            <asp:Label ID="Label2" runat="server" Text="Mật khẩu"></asp:Label></td>
+                            <asp:Label ID="Label2" runat="server" Text="Password"></asp:Label></td>
                         <td>
                             <asp:TextBox ID="txtPassword" runat="server" Width="100%"></asp:TextBox></td>
                     </tr>
