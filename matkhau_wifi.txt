@@ -1,1 +1,1 @@
-Thay doi noi dung cua tep, v�o ng�y 07.03.2017
+﻿Đây là tệp để kiểm thử quá trình làm việc của Tortoise SVN
